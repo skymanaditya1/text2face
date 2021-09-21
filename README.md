@@ -1,2 +1,2 @@
-# AudioDrivenTFGeneration
-Generating talking faces conditioned on the audio
+# Text2Face
+Generating talking faces conditioned on the text
