@@ -1,0 +1,1 @@
+{'text': 'happy but I have literally no words I', 'start': 1248.43, 'duration': 6.83}

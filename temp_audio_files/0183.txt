@@ -1,0 +1,1 @@
+{'text': 'motivation to stick to a diet every time', 'start': 467.37, 'duration': 4.73}

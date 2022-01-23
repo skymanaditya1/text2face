@@ -1,0 +1,1 @@
+{'text': "don't know what to say so see you later", 'start': 1250.77, 'duration': 7.66}

@@ -1,0 +1,337 @@
+{'text': 'well parking is not one of my strong', 'start': 3.62, 'duration': 7.8}
+{'text': 'side', 'start': 9.179, 'duration': 2.241}
+{'text': 'hi guys like I mentioned the previous', 'start': 13.43, 'duration': 6.24}
+{'text': 'video I am going to be competing again', 'start': 15.71, 'duration': 9.06}
+{'text': "and right now I am realized out I'm", 'start': 19.67, 'duration': 7.05}
+{'text': 'going to be competing in Las Vegas in', 'start': 24.77, 'duration': 5.73}
+{'text': 'the Patriots challenge on July 6 so', 'start': 26.72, 'duration': 8.04}
+{'text': 'today is July what July 2nd July 3rd', 'start': 30.5, 'duration': 7.32}
+{'text': "July 3rd and I'm going to be leaving for", 'start': 34.76, 'duration': 7.25}
+{'text': "Vegas tomorrow I'm going to be driving", 'start': 37.82, 'duration': 4.19}
+{'text': 'anyway so yeah living tomorrow want to', 'start': 49.87, 'duration': 10.15}
+{'text': "drive there I'm leaving early because I", 'start': 56.63, 'duration': 5.34}
+{'text': 'feel like I want to just girls who', 'start': 60.02, 'duration': 3.9}
+{'text': 'created their figure everything out and', 'start': 61.97, 'duration': 5.16}
+{'text': "not being a rush I'm planning to vlog a", 'start': 63.92, 'duration': 5.28}
+{'text': 'lot for you I want to make this video', 'start': 67.13, 'duration': 5.52}
+{'text': 'different so last time I did like only', 'start': 69.2, 'duration': 5.79}
+{'text': 'you blocked very little and then the', 'start': 72.65, 'duration': 5.82}
+{'text': 'like a recap explaining most of the', 'start': 74.99, 'duration': 5.43}
+{'text': 'things so this time I just want to do it', 'start': 78.47, 'duration': 4.92}
+{'text': 'just just a vlog kind of video so later', 'start': 80.42, 'duration': 5.94}
+{'text': "today I'm going to do one milk wrap and", 'start': 83.39, 'duration': 4.68}
+{'text': "fill this for you I'm going to bring", 'start': 86.36, 'duration': 6.09}
+{'text': 'like about 15 mils I eat five meals a', 'start': 88.07, 'duration': 6.87}
+{'text': 'day so five meals for Saturday finals', 'start': 92.45, 'duration': 4.529}
+{'text': 'for Friday and then a couple for', 'start': 94.94, 'duration': 4.11}
+{'text': 'tomorrow for Thursday and some extra', 'start': 96.979, 'duration': 4.17}
+{'text': "meals yeah I'm feeling a little bit", 'start': 99.05, 'duration': 3.75}
+{'text': 'under the weather', 'start': 101.149, 'duration': 3.33}
+{'text': 'for some reason I woke up today with a', 'start': 102.8, 'duration': 4.56}
+{'text': "sore throat and when he knows that I've", 'start': 104.479, 'duration': 5.661}
+{'text': 'been sneezing the whole morning', 'start': 107.36, 'duration': 5.34}
+{'text': "hopefully we'll get better doesn't feel", 'start': 110.14, 'duration': 5.26}
+{'text': 'too bad but I felt it yesterday when I', 'start': 112.7, 'duration': 5.43}
+{'text': 'was in cardio and I just felt so tired', 'start': 115.4, 'duration': 5.39}
+{'text': 'so exhausted', 'start': 118.13, 'duration': 2.66}
+{'text': 'serious and also I got venues so this is', 'start': 124.03, 'duration': 7.77}
+{'text': 'so exciting this I got it from the same', 'start': 129.34, 'duration': 6.23}
+{'text': "company bikinis by Freddy's", 'start': 131.8, 'duration': 3.77}
+{'text': "and he said you bother so that's so", 'start': 136.25, 'duration': 5.15}
+{'text': "exciting I'm in love with a smoothie so", 'start': 138.89, 'duration': 5.51}
+{'text': 'fire', 'start': 141.4, 'duration': 3.0}
+{'text': "and right now I'm driving to just get", 'start': 145.78, 'duration': 5.86}
+{'text': 'some last-minute things down', 'start': 148.93, 'duration': 5.97}
+{'text': 'by some things that I', 'start': 151.64, 'duration': 3.26}
+{'text': 'or might sleep', 'start': 155.01, 'duration': 5.619}
+{'text': 'vacation', 'start': 157.76, 'duration': 2.869}
+{'text': "after that I'm going", 'start': 161.51, 'duration': 4.78}
+{'text': 'work out I want to get a car wash', 'start': 164.13, 'duration': 4.94}
+{'text': 'because my car', 'start': 166.29, 'duration': 2.78}
+{'text': "and I'm going to bill crap", 'start': 170.93, 'duration': 5.15}
+{'text': "that's", 'start': 173.78, 'duration': 2.3}
+{'text': "I just got home after my workout and I'm", 'start': 177.52, 'duration': 4.74}
+{'text': "about to no prep I'm going to keep it", 'start': 180.31, 'duration': 4.08}
+{'text': "really simple I'm going to make the", 'start': 182.26, 'duration': 4.59}
+{'text': 'meals that I eat every day for proteins', 'start': 184.39, 'duration': 6.36}
+{'text': "I'm going to have chicken thighs to live", 'start': 186.85, 'duration': 6.81}
+{'text': "in X and for carbs I'm going to have", 'start': 190.75, 'duration': 5.94}
+{'text': "sweet potato and white rice and also I'm", 'start': 193.66, 'duration': 4.91}
+{'text': 'going to bring some rice cakes and', 'start': 196.69, 'duration': 7.35}
+{'text': 'oatmeal and some cereal just something', 'start': 198.57, 'duration': 7.36}
+{'text': "like that I'm starting with sweet", 'start': 204.04, 'duration': 4.68}
+{'text': 'potatoes so I peeled them and cut them', 'start': 205.93, 'duration': 5.49}
+{'text': 'in little pieces and I preheated the', 'start': 208.72, 'duration': 8.0}
+{'text': "oven to 450 degrees and I'm going to", 'start': 211.42, 'duration': 9.39}
+{'text': "cook this for about 40 minutes I'll do", 'start': 216.72, 'duration': 6.97}
+{'text': 'like 30 minutes then toss them around a', 'start': 220.81, 'duration': 5.6}
+{'text': 'little bit and do like another 10 and', 'start': 223.69, 'duration': 5.31}
+{'text': 'also I did not season them with anything', 'start': 226.41, 'duration': 9.4}
+{'text': "because I like it like that I'm also", 'start': 229.0, 'duration': 9.03}
+{'text': "going to start with chicken I'm going to", 'start': 235.81, 'duration': 4.14}
+{'text': "grill it on my little grill and I'm also", 'start': 238.03, 'duration': 4.8}
+{'text': 'going to season it with this this season', 'start': 239.95, 'duration': 6.48}
+{'text': 'and a little bit of lemon juice so I', 'start': 242.83, 'duration': 9.2}
+{'text': 'just cut the ties into little strips', 'start': 246.43, 'duration': 5.6}
+{'text': 'chicken is ready I put it all in one', 'start': 260.72, 'duration': 4.86}
+{'text': "container and I'm going to let it cool a", 'start': 263.3, 'duration': 4.26}
+{'text': "little bit and then I'll measure it in", 'start': 265.58, 'duration': 7.74}
+{'text': 'separate meals there is seven servings', 'start': 267.56, 'duration': 9.03}
+{'text': 'each serving is four ounces uncooked', 'start': 273.32, 'duration': 6.3}
+{'text': 'chicken I measure all my food uncooked', 'start': 276.59, 'duration': 8.91}
+{'text': "and potatoes I'm ready and I also put", 'start': 279.62, 'duration': 7.68}
+{'text': 'all the potatoes in one container and', 'start': 285.5, 'duration': 5.69}
+{'text': "I'm going to measure it in a little bit", 'start': 287.3, 'duration': 7.26}
+{'text': 'and for tilapia I made this little', 'start': 291.19, 'duration': 6.58}
+{'text': "pockets for each serving and I'm going", 'start': 294.56, 'duration': 7.26}
+{'text': 'to bake it for about 17 minutes on 350', 'start': 297.77, 'duration': 6.57}
+{'text': "degrees and I'm going to season it with", 'start': 301.82, 'duration': 8.07}
+{'text': "this I'm also going to make rice I'm", 'start': 304.34, 'duration': 6.96}
+{'text': 'going to make it in mind a little', 'start': 309.89, 'duration': 4.77}
+{'text': 'pressure cooker so I just put the rice', 'start': 311.3, 'duration': 6.9}
+{'text': 'and water again no seasoning and just', 'start': 314.66, 'duration': 6.42}
+{'text': 'going to cook it going to choose the', 'start': 318.2, 'duration': 4.95}
+{'text': 'rice settings and just let it do its', 'start': 321.08, 'duration': 6.21}
+{'text': 'thing and the rice is ready as well it', 'start': 323.15, 'duration': 6.57}
+{'text': 'was ready a while ago but I let it sit', 'start': 327.29, 'duration': 6.0}
+{'text': 'for a little bit so that this pressure', 'start': 329.72, 'duration': 6.6}
+{'text': 'cooker releases the pressure naturally I', 'start': 333.29, 'duration': 5.31}
+{'text': "like it better this way so I'm going to", 'start': 336.32, 'duration': 4.2}
+{'text': 'measure it right now so what I decided', 'start': 338.6, 'duration': 3.45}
+{'text': 'to do with the rice I chose divided it', 'start': 340.52, 'duration': 3.72}
+{'text': "into two parts and I'm going to bring it", 'start': 342.05, 'duration': 4.31}
+{'text': 'like this and just add as much as I need', 'start': 344.24, 'duration': 5.76}
+{'text': 'to my meals so I ended up doing the same', 'start': 346.36, 'duration': 6.73}
+{'text': 'thing for everything up and for example', 'start': 350.0, 'duration': 5.37}
+{'text': 'here I put all the potatoes and I', 'start': 353.09, 'duration': 4.74}
+{'text': "measured and it was 230 grams so that's", 'start': 355.37, 'duration': 5.27}
+{'text': "five servings so when I'm there in Vegas", 'start': 357.83, 'duration': 6.54}
+{'text': "I'm going to bring my scale and just 330", 'start': 360.64, 'duration': 6.82}
+{'text': "divided by 5 how much it is that's going", 'start': 364.37, 'duration': 5.49}
+{'text': 'to be my one serving in this one I have', 'start': 367.46, 'duration': 4.44}
+{'text': 'five hundred and eighty grams with five', 'start': 369.86, 'duration': 6.2}
+{'text': 'servings for me and here I have chicken', 'start': 371.9, 'duration': 6.68}
+{'text': '590 Grande', 'start': 376.06, 'duration': 6.28}
+{'text': 'okay this stuff is going in the fridge', 'start': 378.58, 'duration': 7.66}
+{'text': 'right now and just waiting on tilapia', 'start': 382.34, 'duration': 7.32}
+{'text': "and later I'm going to make some eggs", 'start': 386.24, 'duration': 5.46}
+{'text': "until app is ready as well I'm going to", 'start': 389.66, 'duration': 4.59}
+{'text': 'put each serving separately in the back', 'start': 391.7, 'duration': 6.78}
+{'text': "my meals are ready here's some", 'start': 394.25, 'duration': 5.94}
+{'text': "understand that I'm planning to take I", 'start': 398.48, 'duration': 3.93}
+{'text': 'am now going to go walk in the park for', 'start': 400.19, 'duration': 4.53}
+{'text': 'a little bit I like to do it just to be', 'start': 402.41, 'duration': 5.85}
+{'text': "in the nature to clear my mind so I'm", 'start': 404.72, 'duration': 5.16}
+{'text': 'going to do that and then come home and', 'start': 408.26, 'duration': 5.66}
+{'text': 'pack all my stuff for the trip tomorrow', 'start': 409.88, 'duration': 4.04}
+{'text': "hey guys it's now July 4th happy fourth", 'start': 416.09, 'duration': 4.53}
+{'text': 'of July and I just came home from the', 'start': 418.46, 'duration': 4.82}
+{'text': "gym I had a leg workout and I'm going to", 'start': 420.62, 'duration': 7.8}
+{'text': 'finish packing and head to Las Vegas so', 'start': 423.28, 'duration': 9.46}
+{'text': "so I'm going for what three days and I'm", 'start': 428.42, 'duration': 7.29}
+{'text': 'bringing these two suitcases cooler and', 'start': 432.74, 'duration': 5.4}
+{'text': 'a little backpack I at first I thought', 'start': 435.71, 'duration': 4.89}
+{'text': "maybe I'll try to feed everything in", 'start': 438.14, 'duration': 6.12}
+{'text': 'this little suitcase but I quickly', 'start': 440.6, 'duration': 6.12}
+{'text': "realized that it's not happening so I'm", 'start': 444.26, 'duration': 5.43}
+{'text': 'taking this too and some small stuff', 'start': 446.72, 'duration': 4.71}
+{'text': "before I leave I'm going to go practice", 'start': 449.69, 'duration': 4.74}
+{'text': 'posing a little bit and do some cardio', 'start': 451.43, 'duration': 5.22}
+{'text': 'in my apartment gym and then shower and', 'start': 454.43, 'duration': 5.13}
+{'text': "get going I'm finally ready to head out", 'start': 456.65, 'duration': 5.64}
+{'text': 'only took me what felt like forever to', 'start': 459.56, 'duration': 6.51}
+{'text': 'get ready going to close the suitcases', 'start': 462.29, 'duration': 9.56}
+{'text': "all my food didn't fit in this little", 'start': 466.07, 'duration': 5.78}
+{'text': "coolers so I'm leaving some stuff at", 'start': 472.3, 'duration': 5.95}
+{'text': 'home most of the stuff feeb just have to', 'start': 475.91, 'duration': 6.33}
+{'text': 'leave coffee and something else', 'start': 478.25, 'duration': 24.54}
+{'text': '[Music]', 'start': 482.24, 'duration': 23.08}
+{'text': 'just took one of the suitcases down to', 'start': 502.79, 'duration': 7.09}
+{'text': "the car and I'm ready to live by Keaney", 'start': 505.32, 'duration': 9.58}
+{'text': "a year later don't miss me too much", 'start': 509.88, 'duration': 8.13}
+{'text': '[Music]', 'start': 514.9, 'duration': 3.11}
+{'text': '[Applause]', 'start': 519.64, 'duration': 4.459}
+{'text': 'finally ready to head out god coffee', 'start': 521.61, 'duration': 5.28}
+{'text': "with me got all my stuff hopefully I'm", 'start': 524.099, 'duration': 5.701}
+{'text': 'not forgetting anything and I downloaded', 'start': 526.89, 'duration': 5.43}
+{'text': "an audiobook so I'm going to listen to", 'start': 529.8, 'duration': 4.14}
+{'text': "it while driving and right now I'm going", 'start': 532.32, 'duration': 4.29}
+{'text': 'to stop at the gas station to fill up', 'start': 533.94, 'duration': 5.22}
+{'text': "the tank so that hopefully I won't have", 'start': 536.61, 'duration': 5.789}
+{'text': "to stop again and I'll see you guys", 'start': 539.16, 'duration': 5.299}
+{'text': 'later', 'start': 542.399, 'duration': 2.06}
+{'text': 'Hey when the Romans pretty big got too', 'start': 551.63, 'duration': 5.2}
+{'text': 'bad', 'start': 555.87, 'duration': 9.82}
+{'text': '[Music]', 'start': 556.83, 'duration': 8.86}
+{'text': "going to call for my luggage I'm here", 'start': 570.17, 'duration': 6.15}
+{'text': 'waiting for my luggage to be brought up', 'start': 574.25, 'duration': 5.01}
+{'text': 'to my room and then I want to unpack and', 'start': 576.32, 'duration': 7.41}
+{'text': "then eat and then I'm thinking I want to", 'start': 579.26, 'duration': 6.42}
+{'text': "go for a walk I'll probably take a", 'start': 583.73, 'duration': 4.17}
+{'text': 'shuttle to this trip because my hotel a', 'start': 585.68, 'duration': 4.62}
+{'text': "little off this trip so I think I'll", 'start': 587.9, 'duration': 4.65}
+{'text': 'either take over but probably the', 'start': 590.3, 'duration': 5.04}
+{'text': "shuttle because I'm cheap", 'start': 592.55, 'duration': 12.6}
+{'text': 'let up with one of my meals all right my', 'start': 595.34, 'duration': 12.27}
+{'text': 'luggage is here in the fridge too', 'start': 605.15, 'duration': 17.52}
+{'text': "I'm going to put everything in my with", 'start': 607.61, 'duration': 18.15}
+{'text': "me just for this so that's before", 'start': 622.67, 'duration': 5.04}
+{'text': 'tonight and tomorrow morning I want to', 'start': 625.76, 'duration': 4.2}
+{'text': 'go to the gym there should be 24 hour', 'start': 627.71, 'duration': 6.93}
+{'text': 'fitness some around the corner and check', 'start': 629.96, 'duration': 10.62}
+{'text': 'in and ten actually just when I was', 'start': 634.64, 'duration': 7.68}
+{'text': "about to rest I realized I don't have", 'start': 640.58, 'duration': 5.19}
+{'text': 'any water so going to go find where I', 'start': 642.32, 'duration': 6.02}
+{'text': 'can get some', 'start': 645.77, 'duration': 2.57}
+{'text': '[Music]', 'start': 651.51, 'duration': 3.049}
+{'text': 'good morning early bird gets to see what', 'start': 658.82, 'duration': 9.94}
+{'text': 'they say my alarm was set for 7:30 but I', 'start': 663.38, 'duration': 8.5}
+{'text': "couldn't sleep so decided to get up take", 'start': 668.76, 'duration': 5.76}
+{'text': 'check-in photos for the coach and go to', 'start': 671.88, 'duration': 7.86}
+{'text': 'the gym I know he got dressed and had my', 'start': 674.52, 'duration': 7.2}
+{'text': "breakfast I didn't feel like looking for", 'start': 679.74, 'duration': 5.37}
+{'text': 'the microwave so I just ate my food cold', 'start': 681.72, 'duration': 8.22}
+{'text': "and it was disgusting but next time I'll", 'start': 685.11, 'duration': 7.77}
+{'text': 'sure call him for a microwave so the', 'start': 689.94, 'duration': 4.32}
+{'text': "little stick couldn't sleep well last", 'start': 692.88, 'duration': 2.99}
+{'text': 'night', 'start': 694.26, 'duration': 6.06}
+{'text': 'but going to hit the gym right now and', 'start': 695.87, 'duration': 7.06}
+{'text': "hopefully I'll feel better because you", 'start': 700.32, 'duration': 7.73}
+{'text': 'know Jim is my heavy place and what else', 'start': 702.93, 'duration': 7.5}
+{'text': 'just going to get my knee started I did', 'start': 708.05, 'duration': 4.6}
+{'text': 'a little bit of makeup if it looks weird', 'start': 710.43, 'duration': 4.74}
+{'text': "I'm sorry hotel rooms are always so dark", 'start': 712.65, 'duration': 5.67}
+{'text': 'so so hard to do makeup anyway check it', 'start': 715.17, 'duration': 8.91}
+{'text': 'out right now I mean yeah just got back', 'start': 718.32, 'duration': 8.31}
+{'text': 'from the gym to my hotel stopped at the', 'start': 724.08, 'duration': 5.28}
+{'text': 'pharmacy got some water and cough drops', 'start': 726.63, 'duration': 5.58}
+{'text': 'and face wash', 'start': 729.36, 'duration': 5.88}
+{'text': 'cuz the one I have was too too rough for', 'start': 732.21, 'duration': 8.22}
+{'text': 'me my skin looks red and irritated so I', 'start': 735.24, 'duration': 9.39}
+{'text': 'got another one one check one meal out', 'start': 740.43, 'duration': 6.56}
+{'text': 'to explore a little bit', 'start': 744.63, 'duration': 5.459}
+{'text': 'alright then I just changed and going to', 'start': 746.99, 'duration': 5.26}
+{'text': "head out I don't know where actually I", 'start': 750.089, 'duration': 3.961}
+{'text': 'want to go to the Venetian hotel and', 'start': 752.25, 'duration': 4.68}
+{'text': 'walk around there cuz I like it there so', 'start': 754.05, 'duration': 7.2}
+{'text': "nice and I'm gonna do and then I'm going", 'start': 756.93, 'duration': 5.87}
+{'text': 'to go to Whole Foods and then come back', 'start': 761.25, 'duration': 5.43}
+{'text': 'go do some more cardio at the gym and', 'start': 762.8, 'duration': 8.789}
+{'text': 'the hotel gym and go to chickens', 'start': 766.68, 'duration': 4.909}
+{'text': 'first time when I keep service two years', 'start': 775.16, 'duration': 4.34}
+{'text': 'ago', 'start': 777.23, 'duration': 2.27}
+{'text': 'window-shopping', 'start': 783.559, 'duration': 3.0}
+{'text': '[Applause]', 'start': 793.84, 'duration': 3.1}
+{'text': 'Update', 'start': 801.5, 'duration': 3.0}
+{'text': '[Music]', 'start': 811.31, 'duration': 4.39}
+{'text': 'it looks like the stores are closed', 'start': 818.65, 'duration': 7.28}
+{'text': 'probably too early time is it', 'start': 820.95, 'duration': 4.98}
+{'text': '[Music]', 'start': 836.27, 'duration': 3.12}
+{'text': '[Music]', 'start': 852.62, 'duration': 3.08}
+{'text': "rice cake turkey that's it and going to", 'start': 857.92, 'duration': 10.59}
+{'text': "go to the gym right now it's already 11", 'start': 866.3, 'duration': 6.0}
+{'text': 'so I have to go to the gym do I will do', 'start': 868.51, 'duration': 7.21}
+{'text': 'some glutes and abs and about 10 minutes', 'start': 872.3, 'duration': 5.76}
+{'text': "of cardio and then I'll come back shower", 'start': 875.72, 'duration': 5.16}
+{'text': 'and get ready for the chickens just', 'start': 878.06, 'duration': 7.17}
+{'text': 'change the hotel sheets to the ones I', 'start': 880.88, 'duration': 17.46}
+{'text': "brought for that I don't have I'm ready", 'start': 885.23, 'duration': 14.82}
+{'text': 'to head to the chickens going to bring', 'start': 898.34, 'duration': 5.55}
+{'text': 'my tea in the cup and hopefully find', 'start': 900.05, 'duration': 5.88}
+{'text': 'some hot water somewhere after the', 'start': 903.89, 'duration': 2.94}
+{'text': 'chickens', 'start': 905.93, 'duration': 3.27}
+{'text': 'the chickens are done now got my number', 'start': 906.83, 'duration': 6.33}
+{'text': "42 hopeful I'll bring luck tomorrow I", 'start': 909.2, 'duration': 6.96}
+{'text': "feel like I'm falling asleep probably", 'start': 913.16, 'duration': 5.31}
+{'text': 'going to that for a little bit for a', 'start': 916.16, 'duration': 5.79}
+{'text': "little bit and if I can and then 10 he's", 'start': 918.47, 'duration': 6.96}
+{'text': 'at 4:15 just called the front desk to', 'start': 921.95, 'duration': 5.13}
+{'text': 'ask working in the microwave and they', 'start': 925.43, 'duration': 4.52}
+{'text': "said we don't have microwave available I", 'start': 927.08, 'duration': 8.25}
+{'text': 'am eating my chicken and rice that are', 'start': 929.95, 'duration': 7.65}
+{'text': 'almost frozen', 'start': 935.33, 'duration': 6.48}
+{'text': 'I figured out I can heat up water in', 'start': 937.6, 'duration': 7.15}
+{'text': 'this coffee machine so finally made my', 'start': 941.81, 'duration': 7.8}
+{'text': "team it's already time to go get ten so", 'start': 944.75, 'duration': 8.51}
+{'text': "I won't have my tea and go", 'start': 949.61, 'duration': 3.65}
+{'text': 'I am back with my freshly done 10 it', 'start': 954.04, 'duration': 7.05}
+{'text': "doesn't look too dark I was doing really", 'start': 958.45, 'duration': 7.86}
+{'text': 'surprised like when I get it then I', 'start': 961.09, 'duration': 6.92}
+{'text': "don't know it gives me this mood like", 'start': 966.31, 'duration': 4.26}
+{'text': 'wanna dance around I feel so happy I', 'start': 968.01, 'duration': 4.48}
+{'text': "don't know why I don't know what it is", 'start': 970.57, 'duration': 7.86}
+{'text': 'they put it in there but how I feel okay', 'start': 972.49, 'duration': 8.22}
+{'text': 'now you can see more of a difference', 'start': 978.43, 'duration': 5.46}
+{'text': 'just going to kind of make it a little', 'start': 980.71, 'duration': 7.02}
+{'text': 'bit to let it completely dry it looks', 'start': 983.89, 'duration': 6.09}
+{'text': 'good I really try to not mess anything', 'start': 987.73, 'duration': 5.72}
+{'text': 'up I really gave myself some time to dry', 'start': 989.98, 'duration': 8.21}
+{'text': 'so hopefully it looks perfect tomorrow', 'start': 993.45, 'duration': 4.74}
+{'text': '[Music]', 'start': 1003.33, 'duration': 3.079}
+{'text': '[Music]', 'start': 1015.93, 'duration': 3.16}
+{'text': '[Music]', 'start': 1022.7, 'duration': 3.209}
+{'text': '[Music]', 'start': 1029.839, 'duration': 27.75}
+{'text': '[Music]', 'start': 1059.98, 'duration': 10.93}
+{'text': 'hey guys this show I just want to say de', 'start': 1073.809, 'duration': 10.061}
+{'text': 'and Pisa is the prettiest on stage and', 'start': 1081.38, 'duration': 4.799}
+{'text': 'also she was so well prepared she was', 'start': 1083.87, 'duration': 4.08}
+{'text': 'she knew all the moves she did she', 'start': 1086.179, 'duration': 2.85}
+{'text': 'worked really hard I was really', 'start': 1087.95, 'duration': 1.56}
+{'text': 'impressed', 'start': 1089.029, 'duration': 2.701}
+{'text': "she's amazing and I wouldn't aggress", 'start': 1089.51, 'duration': 4.529}
+{'text': 'guest read but it was phenomenal it', 'start': 1091.73, 'duration': 4.77}
+{'text': 'looks so good on stage yeah for all the', 'start': 1094.039, 'duration': 4.201}
+{'text': 'haters out there and fisa looks even', 'start': 1096.5, 'duration': 5.47}
+{'text': "better in real life there's no haters", 'start': 1098.24, 'duration': 5.539}
+{'text': '[Laughter]', 'start': 1101.97, 'duration': 5.959}
+{'text': 'thank you guys thank you guys', 'start': 1103.779, 'duration': 7.571}
+{'text': 'oh my god you guys I have not blocked', 'start': 1107.929, 'duration': 5.61}
+{'text': "because I was in a rush it's like in the", 'start': 1111.35, 'duration': 3.48}
+{'text': 'morning I was just in a rush I woke up', 'start': 1113.539, 'duration': 3.51}
+{'text': 'at 6:00 and I thought I had plenty of', 'start': 1114.83, 'duration': 4.229}
+{'text': 'time until 7:30 when my makeup artist', 'start': 1117.049, 'duration': 3.841}
+{'text': 'was supposed to come so then I asked my', 'start': 1119.059, 'duration': 4.051}
+{'text': 'coach hey should I like leave tours or', 'start': 1120.89, 'duration': 4.32}
+{'text': 'do something else and he said yeah go', 'start': 1123.11, 'duration': 3.929}
+{'text': 'get the light leaves I was like oh that', 'start': 1125.21, 'duration': 3.449}
+{'text': 'was part of my schedule so I went to the', 'start': 1127.039, 'duration': 6.12}
+{'text': 'gym cut lift and then came back and my', 'start': 1128.659, 'duration': 6.63}
+{'text': "makeup artist game she's my makeup then", 'start': 1133.159, 'duration': 4.081}
+{'text': 'it was already 9:30 I was supposed to go', 'start': 1135.289, 'duration': 5.431}
+{'text': 'to the like athletes meeting at 8:30 so', 'start': 1137.24, 'duration': 6.27}
+{'text': 'I got down only like at 9:40 then I was', 'start': 1140.72, 'duration': 4.319}
+{'text': 'in the line for the 10:00 for like an', 'start': 1143.51, 'duration': 3.69}
+{'text': 'hour I left to the bathroom I lost my', 'start': 1145.039, 'duration': 6.39}
+{'text': 'spot had to stand in the lining game and', 'start': 1147.2, 'duration': 7.14}
+{'text': 'then when they got on with the 10 and I', 'start': 1151.429, 'duration': 8.791}
+{'text': 'had to wait and but anyway I got glasses', 'start': 1154.34, 'duration': 10.05}
+{'text': "it's so freaking exciting and now Mike", 'start': 1160.22, 'duration': 6.929}
+{'text': 'always told me to him you can go to the', 'start': 1164.39, 'duration': 6.0}
+{'text': "gym get a lift and then way down that's", 'start': 1167.149, 'duration': 4.801}
+{'text': "what I'm doing and I'll see you guys", 'start': 1170.39, 'duration': 1.95}
+{'text': 'later', 'start': 1171.95, 'duration': 3.27}
+{'text': "you live in a mess here I'm going to", 'start': 1172.34, 'duration': 5.39}
+{'text': 'have my meal to live in rice and oops', 'start': 1175.22, 'duration': 6.329}
+{'text': "don't wanna make the bad dirty so going", 'start': 1177.73, 'duration': 8.15}
+{'text': 'to have this and at the gym I', 'start': 1181.549, 'duration': 8.681}
+{'text': "lower crowd a little rest and I'm", 'start': 1185.88, 'duration': 8.46}
+{'text': 'allowed to head to the finals I need to', 'start': 1190.23, 'duration': 5.79}
+{'text': 'get my time - enough because I rinsed it', 'start': 1194.34, 'duration': 3.93}
+{'text': "is suddenly a male that it's okay to", 'start': 1196.02, 'duration': 4.86}
+{'text': 'reach it before finals my tan looked bad', 'start': 1198.27, 'duration': 5.67}
+{'text': 'she because I got sweaty at the gym so I', 'start': 1200.88, 'duration': 5.82}
+{'text': 'reached it and hopefully they can do', 'start': 1203.94, 'duration': 8.55}
+{'text': 'another coat now you guys I want', 'start': 1206.7, 'duration': 8.57}
+{'text': 'everything', 'start': 1212.49, 'duration': 2.78}
+{'text': 'this is nervous over all those are for', 'start': 1216.53, 'duration': 9.18}
+{'text': 'the classes for now so guys', 'start': 1221.7, 'duration': 4.01}
+{'text': 'guys calm down Twitter breath changed', 'start': 1230.07, 'duration': 7.08}
+{'text': "and I'm going to celebrate with Emily", 'start': 1234.0, 'duration': 5.94}
+{'text': 'the girl you probably so early and I', 'start': 1237.15, 'duration': 5.25}
+{'text': 'play this clip in that video the girl', 'start': 1239.94, 'duration': 4.65}
+{'text': 'that came to the show to the prejudging', 'start': 1242.4, 'duration': 3.9}
+{'text': 'she was obsolete so nice she broke my', 'start': 1244.59, 'duration': 3.84}
+{'text': "little gift I'll show you later I'm so", 'start': 1246.3, 'duration': 4.47}
+{'text': 'happy but I have literally no words I', 'start': 1248.43, 'duration': 6.83}
+{'text': "don't know what to say so see you later", 'start': 1250.77, 'duration': 7.66}
+{'text': '[Music]', 'start': 1255.26, 'duration': 3.17}

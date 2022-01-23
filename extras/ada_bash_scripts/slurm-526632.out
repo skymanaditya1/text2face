@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "landmark_generation.py", line 21, in <module>
+    fa = [face_alignment.FaceAlignment(face_alignment.LandmarksType._2D, flip_input=False, device='cuda:{}'.format(id)) for id in range(ngpus)]
+  File "landmark_generation.py", line 21, in <listcomp>
+    fa = [face_alignment.FaceAlignment(face_alignment.LandmarksType._2D, flip_input=False, device='cuda:{}'.format(id)) for id in range(ngpus)]
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/face_alignment/api.py", line 77, in __init__
+    self.face_detector = face_detector_module.FaceDetector(device=device, verbose=verbose, **face_detector_kwargs)
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/face_alignment/detection/sfd/sfd_detector.py", line 31, in __init__
+    self.face_detector.to(device)
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/torch/nn/modules/module.py", line 852, in to
+    return self._apply(convert)
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/torch/nn/modules/module.py", line 530, in _apply
+    module._apply(fn)
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/torch/nn/modules/module.py", line 552, in _apply
+    param_applied = fn(param)
+  File "/home2/aditya1/miniconda3/envs/fastspeech2/lib/python3.7/site-packages/torch/nn/modules/module.py", line 850, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: invalid device ordinal
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.

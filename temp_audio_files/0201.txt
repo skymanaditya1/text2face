@@ -1,0 +1,1 @@
+{'text': 'did feel a little bit intimidated', 'start': 514.789, 'duration': 7.091}
