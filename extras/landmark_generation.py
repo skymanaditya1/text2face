@@ -16,9 +16,10 @@ from itertools import product
 import argparse
 from glob import glob
 
-ngpus = 4
+ngpus = 1
 
-fa = [face_alignment.FaceAlignment(face_alignment.LandmarksType._2D, flip_input=False, device='cuda:{}'.format(id)) for id in range(ngpus)]
+# fa = [face_alignment.FaceAlignment(face_alignment.LandmarksType._2D, flip_input=False, device='cuda:{}'.format(id)) for id in range(ngpus)]
+fa = [face_alignment.FaceAlignment(face_alignment.LandmarksType._2D, flip_input=False, device='cuda:{}'.format(0))]
 
 def drawPolyline(image, landmarks, start, end, isClosed=False):
     points = []
@@ -373,24 +374,30 @@ if __name__ == '__main__':
 
     files_to_process = list()
 
-    speakers = args.speakers
-    print(f'Speakers found : {speakers}', flush=True)
-    speakers = speakers.split(',')
-    FILES = 'videos/{}/*/*.mp4'
-    # FILEPATH = '/ssd_scratch/cvit/aditya1/videos/{}/*.mp4'
-    for speaker in speakers:
-        speaker_files = glob(FILES.format(speaker))
-        files_to_process.extend(speaker_files)
+    # speakers = args.speakers
+    # print(f'Speakers found : {speakers}', flush=True)
+    # speakers = speakers.split(',')
+    # FILES = 'videos/{}/*/*.mp4'
 
-    speaker_files = dict()
-    for filepath in files_to_process:
-        speaker = filepath.split('/')[1]
-        if speaker in speaker_files:
-            speaker_files[speaker] = speaker_files[speaker] + 1
-        else:
-            speaker_files[speaker] = 1
+
+
+    # # FILEPATH = '/ssd_scratch/cvit/aditya1/videos/{}/*.mp4'
+    # for speaker in speakers:
+    #     speaker_files = glob(FILES.format(speaker))
+    #     files_to_process.extend(speaker_files)
+
+    # speaker_files = dict()
+    # for filepath in files_to_process:
+    #     speaker = filepath.split('/')[1]
+    #     if speaker in speaker_files:
+    #         speaker_files[speaker] = speaker_files[speaker] + 1
+    #     else:
+    #         speaker_files[speaker] = 1
     
-    print(f'Number of speaker files to process : {speaker_files}', flush=True)
+    # print(f'Number of speaker files to process : {speaker_files}', flush=True)
+
+    dirname = '/ssd_scratch/cvit/aditya1/rebuttal_scores_validation/source_gt'
+    files_to_process = glob(dirname + '/*.mp4')
     
     jobs = [(video_file, job_id%ngpus) for job_id, video_file in enumerate(files_to_process)]
     futures = [p.submit(detect_face_generate_landmarks, job) for job in jobs]
